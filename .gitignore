@@ -1,0 +1,11 @@
+/vendor/
+node_modules
+elementor
+elementor-pro
+woocommerce
+metform
+metform-pro
+composer.phar
+.DS_Store
+.idea
+
